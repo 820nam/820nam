@@ -18,7 +18,7 @@
 - **기획 × QA** — 제품 기획과 QA 프로세스 설계·관리
 - **Internal Tooling** — 팀이 실제로 쓰는 협업 툴·대시보드를 직접 설계하고 제작
 - **Automation** — 반복 업무를 줄이는 작은 도구를 꾸준히 만듦
-- **Now Building** — 사이드 프로젝트 매칭 플랫폼 [`waggle.lol`](https://waggle.lol)
+- **Team** — **WAGGLE** 소속 · 사이드 프로젝트 매칭 서비스 [`waggle.lol`](https://waggle.lol) 운영
 
 ### Tech Stack
 
