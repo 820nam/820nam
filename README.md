@@ -82,7 +82,8 @@
 
 ### 연락
 
-- gilnam3947@gmail.com
+- 블로그 — [`820nam.github.io`](https://820nam.github.io)
+- 이메일 — gilnam3947@gmail.com
 
 ---
 
