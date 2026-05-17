@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=560&lines=0%20%E2%86%92%20100%20%EB%B9%8C%EB%8D%94;%EA%B8%B0%ED%9A%8D%EB%B6%80%ED%84%B0%20%EC%B6%9C%EC%8B%9C%EA%B9%8C%EC%A7%80%20%EC%A7%81%EC%A0%91%20%EB%A7%8C%EB%93%A0%EB%8B%A4" alt="배너" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=580&lines=0%20%E2%86%92%20100%2C%20%ED%95%A8%EA%BB%98%20%EB%A7%8C%EB%93%9C%EB%8A%94%20%EB%B9%8C%EB%8D%94;%EA%B8%B0%ED%9A%8D%EB%B6%80%ED%84%B0%20%EC%B6%9C%EC%8B%9C%EA%B9%8C%EC%A7%80%2C%20%ED%8C%80%EA%B3%BC%20%ED%95%A8%EA%BB%98" alt="배너" />
 
 <img src="https://komarev.com/ghpvc/?username=820nam&label=Profile%20views&color=2563EB&style=flat-square" alt="조회수" />
 
@@ -8,18 +8,23 @@
 
 ## 이길남 &nbsp;<sub>`@820nam`</sub>
 
-**0에서 100까지** — 아이디어를 기획하고, 직접 만들어 출시하는 빌더입니다.
-필요한 도구는 기다리지 않고 바로 만듭니다.
+**혼자서도 0 → 100, 팀과 함께라면 더 멀리.**
+아이디어를 직접 제품으로 만들고, 팀이 함께 잘 일하도록 잇는 빌더입니다.
 
 ---
 
 ### 소개
 
 - **0 → 100 빌더** — 아이디어를 제품으로, 기획부터 출시까지 직접
-- **기획 × QA** — 제품 기획과 QA 프로세스 설계·운영
-- **사내 도구 제작** — 팀이 실제로 쓰는 협업 툴·대시보드를 직접 제작
-- **자동화** — 반복 업무를 줄이는 작은 도구를 꾸준히 제작
+- **잇는 빌더** — 기획·디자인·개발 사이를 연결하고, 누구와도 같은 언어로 소통
+- **팀을 위한 제작** — 협업 툴·대시보드를 만들어 팀이 같은 화면을 보게 함
 - **소속** — **WAGGLE** · 사이드 프로젝트 매칭 서비스 [`waggle.lol`](https://waggle.lol) 운영
+
+### 이렇게 일해요
+
+- 막히면 혼자 안고 가지 않고, 빠르게 공유하고 정렬합니다
+- 만든 도구는 문서·온보딩까지 챙겨 팀이 바로 쓸 수 있게 합니다
+- 기획서든 코드든 — 함께 일하는 사람의 언어로 이야기합니다
 
 ### 기술 스택
 
@@ -52,4 +57,4 @@
 
 ---
 
-<div align="center"><sub>0에서 100까지, 끝까지 만든다.</sub></div>
+<div align="center"><sub>혼자 끝까지, 그리고 함께 더 멀리.</sub></div>
