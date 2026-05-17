@@ -42,14 +42,15 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### GitHub 통계
+### 주요 작업
+
+- **팀 협업 허브** — QA 관리·대시보드·문서를 한 화면에 모은 사내 협업 툴
+- **카드뉴스 생성기** — Notion 문서 기반으로 인스타그램 카드뉴스를 자동 생성
+- **[`waggle.lol`](https://waggle.lol)** — 사이드 프로젝트 매칭 서비스 (WAGGLE)
+
+### GitHub 활동
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=820nam&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=2563EB&icon_color=2563EB" alt="github 통계" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=820nam&layout=compact&hide_border=true&theme=tokyonight&title_color=2563EB" alt="사용 언어" />
-
-<br/>
 
 <img src="https://streak-stats.demolab.com/?user=820nam&hide_border=true&theme=tokyonight&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="연속 기여" />
 
