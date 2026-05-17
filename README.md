@@ -1,26 +1,27 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2600&pause=900&color=2563EB&center=true&vCenter=true&width=540&lines=Planner+%C3%97+Builder;Ship+the+tools+you+need" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=2563EB&center=true&vCenter=true&width=560&lines=0%20%E2%86%92%20100%20%EB%B9%8C%EB%8D%94;%EA%B8%B0%ED%9A%8D%EB%B6%80%ED%84%B0%20%EC%B6%9C%EC%8B%9C%EA%B9%8C%EC%A7%80%20%EC%A7%81%EC%A0%91%20%EB%A7%8C%EB%93%A0%EB%8B%A4" alt="배너" />
 
-<img src="https://komarev.com/ghpvc/?username=820nam&label=Profile%20views&color=2563EB&style=flat-square" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=820nam&label=Profile%20views&color=2563EB&style=flat-square" alt="조회수" />
 
 </div>
 
-## LEE GILNAM &nbsp;<sub>`@820nam`</sub>
+## 이길남 &nbsp;<sub>`@820nam`</sub>
 
-기획·QA가 본업이고, 일이 막히면 필요한 도구를 직접 만듭니다.
-팀이 실제로 쓰는 협업 툴과 대시보드를 코드로 옮기는 걸 좋아해요.
+**0에서 100까지** — 아이디어를 기획하고, 직접 만들어 출시하는 빌더입니다.
+필요한 도구는 기다리지 않고 바로 만듭니다.
 
 ---
 
-### About
+### 소개
 
-- **기획 × QA** — 제품 기획과 QA 프로세스 설계·관리
-- **Internal Tooling** — 팀이 실제로 쓰는 협업 툴·대시보드를 직접 설계하고 제작
-- **Automation** — 반복 업무를 줄이는 작은 도구를 꾸준히 만듦
-- **Team** — **WAGGLE** 소속 · 사이드 프로젝트 매칭 서비스 [`waggle.lol`](https://waggle.lol) 운영
+- **0 → 100 빌더** — 아이디어를 제품으로, 기획부터 출시까지 직접
+- **기획 × QA** — 제품 기획과 QA 프로세스 설계·운영
+- **사내 도구 제작** — 팀이 실제로 쓰는 협업 툴·대시보드를 직접 제작
+- **자동화** — 반복 업무를 줄이는 작은 도구를 꾸준히 제작
+- **소속** — **WAGGLE** · 사이드 프로젝트 매칭 서비스 [`waggle.lol`](https://waggle.lol) 운영
 
-### Tech Stack
+### 기술 스택
 
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -36,19 +37,19 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### GitHub Stats
+### GitHub 통계
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=820nam&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=2563EB&icon_color=2563EB" alt="github stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=820nam&layout=compact&hide_border=true&theme=tokyonight&title_color=2563EB" alt="top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=820nam&show_icons=true&count_private=true&hide_border=true&theme=tokyonight&title_color=2563EB&icon_color=2563EB" alt="github 통계" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=820nam&layout=compact&hide_border=true&theme=tokyonight&title_color=2563EB" alt="사용 언어" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=820nam&hide_border=true&theme=tokyonight&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="streak" />
+<img src="https://streak-stats.demolab.com/?user=820nam&hide_border=true&theme=tokyonight&ring=2563EB&fire=2563EB&currStreakLabel=2563EB" alt="연속 기여" />
 
 </div>
 
 ---
 
-<div align="center"><sub>기획에서 멈추지 않고, 끝까지 만든다.</sub></div>
+<div align="center"><sub>0에서 100까지, 끝까지 만든다.</sub></div>
